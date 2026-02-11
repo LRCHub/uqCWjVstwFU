@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "独り言",
+  "base_artist": "東　雪蓮",
+  "createdAt": "2026-02-11T08:30:22.544669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "独り言",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/01_独り言_96猫.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "独り言",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/02_独り言_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "独り言",
+      "artist": "Asagaya Romantics",
+      "has_synced": true,
+      "path": "select/03_独り言_Asagaya_Romantics.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "独り言 - Hitori Goto",
+      "artist": "Asagaya Romantics",
+      "has_synced": true,
+      "path": "select/04_独り言_-_Hitori_Goto_Asagaya_Romantics.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "独り言",
+      "artist": "東 雪蓮",
+      "has_synced": false,
+      "path": "select/pl_01_独り言_東_雪蓮.txt"
+    }
+  ]
+}
